@@ -1,0 +1,1 @@
+var json_Informe_15 = {"type":"FeatureCollection","name":"Informe_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Informe":"Informes","Estudio":"../Informes/EGeof_Heineken_Navojoa.pdf"},"geometry":{"type":"Point","coordinates":[-109.431474464825385,27.017385064901063]}}]}
